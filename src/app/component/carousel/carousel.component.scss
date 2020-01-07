@@ -1,0 +1,20 @@
+.imgs {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-indicators {
+  li {
+    margin: 0 5px;
+  }
+}
+
+.glyphicon-chevron-left,
+.glyphicon-chevron-right {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  background: #ccc;
+  border-radius: 50%;
+}
